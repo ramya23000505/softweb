@@ -806,6 +806,7 @@ contact.html
 ![Screenshot 2024-04-25 202200](https://github.com/ramya23000505/softweb/assets/149370791/5bf4e3c9-3dba-4b3f-be6d-12d7a82ae010)
 ![Screenshot 2024-04-25 202254](https://github.com/ramya23000505/softweb/assets/149370791/89863579-70a6-494a-b0c9-0f9327f8655c)
 ![Screenshot 2024-04-25 203607](https://github.com/ramya23000505/softweb/assets/149370791/aacad62d-1e53-4dcc-aea9-f5bda5d6e0af)
-![Uploading Screenshot 2024-04-25 202309.png…]()
+![Screenshot 2024-04-25 202254](https://github.com/ramya23000505/softweb/assets/149370791/43cf91d7-0d44-43fd-bc69-608e443cc911)
+
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
